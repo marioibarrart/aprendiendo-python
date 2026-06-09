@@ -3,6 +3,6 @@ print(1891)
 
 days=['monday', 'tuesday', 'wednesday']
 tasks=['gym', 'homework', 'pool']
-for days in days:
+for day in days:
 	for task in tasks:
 		print(day, task)
