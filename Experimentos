@@ -1,4 +1,2 @@
-signs=["red","yellow","green"]
-for sign in signs:
-	for i in range(3):
-		print(sign)
+for i in scores:
+	i+=5
