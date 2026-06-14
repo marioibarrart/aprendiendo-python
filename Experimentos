@@ -1,2 +1,4 @@
-for i in scores:
-	i+=5
+prices=[150,79,35,259]
+total=0
+for i in prices:
+	total
