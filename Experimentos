@@ -1,3 +1,2 @@
-coordinates=(4,7,9)
-coordinates=[1]=5
-print(coordinates)
+fruits = {"apple", "banana", "cherry"}
+print(fruits[1])
